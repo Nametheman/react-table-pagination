@@ -1,6 +1,6 @@
 import React from "react";
 interface PropTypes {
-    data: [];
+    data: any[];
 }
 declare const Pagination: (props: PropTypes) => React.JSX.Element;
 export default Pagination;
