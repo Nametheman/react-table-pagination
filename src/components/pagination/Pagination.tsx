@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 interface PropTypes {
-  data: Array<any>;
+  data: any[];
 }
 
 const Pagination = (props: PropTypes) => {
