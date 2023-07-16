@@ -1,7 +1,7 @@
 {
   "name": "@nametheman/react-table-pagination",
   "author": "Emmanuel Owolabi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
