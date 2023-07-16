@@ -1,5 +1,5 @@
 {
-  "name": "react-table-pagination",
+  "name": "@nametheman/react-table-pagination",
   "author": "Emmanuel Owolabi",
   "version": "1.0.0",
   "description": "",
@@ -26,5 +26,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/nametheman"
+  }
 }
